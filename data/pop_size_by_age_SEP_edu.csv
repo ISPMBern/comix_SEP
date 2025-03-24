@@ -1,0 +1,17 @@
+,age_group,edu_level,sep_level,population
+0-14-high edu-high SEP,0-14,high edu,high SEP,0.0
+0-14-high edu-low SEP,0-14,high edu,low SEP,0.0
+0-14-low edu-high SEP,0-14,low edu,high SEP,910215.0
+0-14-low edu-low SEP,0-14,low edu,low SEP,413202.0
+15-24-high edu-high SEP,15-24,high edu,high SEP,51812.0
+15-24-high edu-low SEP,15-24,high edu,low SEP,24823.0
+15-24-low edu-high SEP,15-24,low edu,high SEP,552631.0
+15-24-low edu-low SEP,15-24,low edu,low SEP,264751.0
+25-64-high edu-high SEP,25-64,high edu,high SEP,1687317.3094791055
+25-64-high edu-low SEP,25-64,high edu,low SEP,536759.268093747
+25-64-low edu-high SEP,25-64,low edu,high SEP,1727216.6905208929
+25-64-low edu-low SEP,25-64,low edu,low SEP,938743.7319062529
+65+-high edu-high SEP,65+,high edu,high SEP,349133.05628178443
+65+-high edu-low SEP,65+,high edu,low SEP,111064.11503299061
+65+-low edu-high SEP,65+,low edu,high SEP,799172.9437182155
+65+-low edu-low SEP,65+,low edu,low SEP,427282.8849670094
