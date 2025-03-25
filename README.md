@@ -2,7 +2,7 @@
 
 This repository includes the code used in the following manuscript:
 "Individual-based and neighbourhood-based socio-economic factors relevant for contact behaviour and epidemic control"
-by Laura Di Domenico, Martina L. Reichmuth, Christian L. Althaus, available soon on medrxiv
+by Laura Di Domenico, Martina L. Reichmuth, Christian L. Althaus https://www.medrxiv.org/content/10.1101/2025.03.24.25324502v1 
 
 This work uses social contact data collected in Switzerland through the CoMix survey. Check out the [CoMix](https://github.com/ISPMBern/comix) repository for other publications related to these data.
 
